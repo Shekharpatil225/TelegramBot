@@ -1,11 +1,12 @@
 # TelegramBot
-## This Telegram Bot helps to Encrypt and Decrypt a message sent by an user.
+### This Telegram Bot helps to Encrypt and Decrypt a message sent by an user.
 Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 ## Index
 
 * [Introduction](#introduction)
-* [Libraries](#libraries)
 * [Replit](#replit)
+* [Libraries](#libraries)
+* [Keep_Alive](#keep_alive)
 * [UptimeRobot](#uptimerobot)
 * [Conclusion](#conclusion)
 
@@ -19,6 +20,11 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 * So, Bot sends the encrypted message in hexadecimal format.
 * During Decryption, hexadecimal string is coverted to normol string and then xor'ing each character of encrypted message and key gives decrypted message.
 
+## Repl.it
+* Repl.it is a free online IDE(integrated development environment) that allows users to write their own programs and code in any language.
+* sign up to Repl.it [Here](https://replit.com)
+* In Repl.it, we can run our code and at a same time can create a server which runs our code forever.
+
 ## Libraries
 * Import os - The OS module in Python provides functions for creating and removing a directory(folder), fetchng its contents, changing and identifying the current directory etc..
 * Import telebot - Telebot library is used to interact the code with our telegram bot. Refer [TelebotAPI](https://pypi.org/project/pyTelegramBotAPI/) to know how to create your own telegram bot and operate with it.
@@ -31,7 +37,6 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 * So, keep_alive runs both server and main.py file at a same time
 
 
-## Replit
 s\
 h\
 i\
