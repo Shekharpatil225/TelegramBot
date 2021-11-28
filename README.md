@@ -6,7 +6,7 @@
 
 <div align="center">
     <h3>Find it on Telegram as</h3>
-    <a href="http://t.me/Testing225_bot">TestBot</a>
+    <a href="http://t.me/Testbot225_bot">"TestBot"</a>
     <br/>
 
 </div>
