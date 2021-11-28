@@ -1,6 +1,16 @@
-# TelegramBot
-### This Telegram Bot helps to Encrypt 🔒 and Decrypt 🔓a message sent by an user.
-Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
+<div align="center">
+    <h1>TelegramBot for Encryption and Decryption</h1>
+    <i>This Telegram Bot helps to Encrypt 🔒 and Decrypt 🔓a message sent by an user.</i>
+  
+</div>
+
+<div align="center">
+    <h3>Find it on Telegram as</h3>
+    <a href="http://t.me/Testing225_bot">TestBot</a>
+    <br/>
+
+</div>
+
 ## Index
 
 * [Introduction_to_TestBot](#introduction_to_testbot)
