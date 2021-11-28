@@ -82,5 +82,7 @@
 
 **[:arrow_up: Back to Index](#index)**
 
-h1 {text-align: center;}
-<h1>## ThankYou</h1>
+<div align="center">
+    <h2>Thank You</h2>
+    <br/>
+</div>
