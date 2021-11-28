@@ -23,8 +23,12 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 * Import os - The OS module in Python provides functions for creating and removing a directory(folder), fetchng its contents, changing and identifying the current directory etc..
 * Import telebot - Telebot library is used to interact the code with our telegram bot. Refer [TelebotAPI](https://pypi.org/project/pyTelegramBotAPI/) to know how to create your own telegram bot and operate with it.
 * Import Random - Random library is used to generate any random numbers. In this code we use random function to generate a random key for each character.
-* Import keep_alive - 
+* Import keep_alive - This Library is used to create the server.
 
+## keep_alive 
+* flask is used to make the server. Refer [Flask](https://github.com/pallets/flask/) Here.
+* thread allows us to do multiple things at once. Here it allows the server to run continously and runs the python code at a same time.
+* So, keep_alive runs both server and main.py file at a same time
 
 
 ## Replit
