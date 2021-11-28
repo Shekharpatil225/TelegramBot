@@ -72,4 +72,5 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 
 **[:arrow_up: Back to Index](#index)**
 
-## ThankYou
+h1 {text-align: center;}
+<h1>## ThankYou</h1>
