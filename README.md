@@ -21,6 +21,8 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 * So, Bot sends the encrypted message in hexadecimal format.
 * During Decryption, hexadecimal string is coverted to normol string and then xor'ing each character of encrypted message and key gives decrypted message.
 
+**[:arrow_up: Back to Index](#index)**
+
 ## Repl.it
 * Repl.it is a free online IDE(integrated development environment) that allows users to write their own programs and code in any language.
 * sign up to Repl.it [Here](https://replit.com)
