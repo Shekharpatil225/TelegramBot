@@ -10,7 +10,7 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 * [UptimeRobot](#uptimerobot)
 * [Conclusion](#conclusion)
 
-## Introduction of TestBot
+## Introduction
 * This Bot is designed to Encrypt and Decrypt the messages
 * Encryption and Decryption process is done by Xor'ing a message and a key.
 * Key is a integer value which is randomly ganerated from random function.
