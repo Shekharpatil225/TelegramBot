@@ -36,7 +36,7 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 * flask is used to make the server. Refer [Flask](https://github.com/pallets/flask/) Here.
 * thread allows us to do multiple things at once. Here it allows the server to run continously and runs the python code at a same time.
 * So, keep_alive runs both server and main.py file at a same time
-* Refer [keep_alive.py]
+* Refer [keep_alive.py](https://github.com/Shekharpatil225/TelegramBot/blob/main/keep_alive.py) to check the code
 
 ## main.py
 * In main.py file we have a function called input_message for Encryption, and a function called output_message for Decryption.
