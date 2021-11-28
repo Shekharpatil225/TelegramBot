@@ -6,5 +6,5 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 * [Introduction](#introduction)
 * [Replit](#replit)
 
-**[ Back to Introduction](#introduction)**
+**[ Back to index](#index)**
 ## Shekhar
