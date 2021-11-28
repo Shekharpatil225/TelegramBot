@@ -3,8 +3,8 @@
 Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 ## Index
 
-* [Introduction](#introduction of testbot)
-* [Repl.it](#repl.it)
+* [Introduction of TestBot](#introductionoftestbot)
+* [Replit](#replit)
 * [Libraries](#libraries)
 * [Keep_Alive](#keep_alive)
 * [UptimeRobot](#uptimerobot)
