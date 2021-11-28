@@ -3,7 +3,7 @@
 Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 ## Index
 
-* [Introduction of TestBot](#introduction)
+* [Introduction](#introduction)
 * [Replit](#replit)
 * [Libraries](#libraries)
 * [Keep_Alive](#keep_alive)
