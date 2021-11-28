@@ -4,6 +4,7 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 ## Index
 
 * [Introduction](#introduction)
+* [Libraries](#libraries)
 * [Replit](#replit)
 * [UptimeRobot](#uptimerobot)
 * [Conclusion](#conclusion)
@@ -20,7 +21,9 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 
 ## Libraries
 * Import os - The OS module in Python provides functions for creating and removing a directory(folder), fetchng its contents, changing and identifying the current directory etc..
-* Import telebot - Telebot library is used to interact the code with our telegram bot. Refer [TelebotAPI](https://pypi.org/project/pyTelegramBotAPI/)
+* Import telebot - Telebot library is used to interact the code with our telegram bot. Refer [TelebotAPI](https://pypi.org/project/pyTelegramBotAPI/) to know how to create your own telegram bot and operate with it.
+* Import Random - Random library is used to generate any random numbers. In this code we use random function to generate a random key for each character.
+* Import keep_alive - 
 
 
 
