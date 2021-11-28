@@ -36,13 +36,14 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 * flask is used to make the server. Refer [Flask](https://github.com/pallets/flask/) Here.
 * thread allows us to do multiple things at once. Here it allows the server to run continously and runs the python code at a same time.
 * So, keep_alive runs both server and main.py file at a same time
+* Refer [keep_alive.py]
 
 ## main.py
 * In main.py file we have a function called input_message for Encryption, and a function called output_message for Decryption.
 * API_KEY is a secret key of our telegram bot.
 * Message Handlers are used to take response from Bot for certain commands.
-* It detects the message sent by user is a text or command and responds accordingly. Check the code for details
-* Refer [Python_file](https://github.com/Shekharpatil225/TelegramBot/blob/main/main.py)
+* It detects the message sent by user is a text or command and responds accordingly.
+* Refer [Python_file](https://github.com/Shekharpatil225/TelegramBot/blob/main/main.py) to check the code.
 
 ## UptimeRobot
 * The server in repl.it runs the code about an hour and then the server goes down.
