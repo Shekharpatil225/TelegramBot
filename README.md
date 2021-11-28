@@ -28,17 +28,23 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 * sign up to Repl.it [Here](https://replit.com)
 * In Repl.it, we can run our code and at a same time can create a server which runs our code forever.
 
+**[:arrow_up: Back to Index](#index)**
+
 ## Libraries
 * Import os - The OS module in Python provides functions for creating and removing a directory(folder), fetchng its contents, changing and identifying the current directory etc..
 * Import telebot - Telebot library is used to interact the code with our telegram bot. Refer [TelebotAPI](https://pypi.org/project/pyTelegramBotAPI/) to know how to create your own telegram bot and operate with it.
 * Import Random - Random library is used to generate any random numbers. In this code we use random function to generate a random key for each character.
 * Import keep_alive - This Library is used to create the server.
 
+**[:arrow_up: Back to Index](#index)**
+
 ## keep_alive 
 * flask is used to make the server. Refer [Flask](https://github.com/pallets/flask/) Here.
 * thread allows us to do multiple things at once. Here it allows the server to run continously and runs the python code at a same time.
 * So, keep_alive runs both server and main.py file at a same time
 * Refer [keep_alive.py](https://github.com/Shekharpatil225/TelegramBot/blob/main/keep_alive.py) to check the code
+
+**[:arrow_up: Back to Index](#index)**
 
 ## main.py
 * In main.py file we have a function called input_message for Encryption, and a function called output_message for Decryption.
@@ -47,6 +53,8 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 * It detects the message sent by user is a text or command and responds accordingly.
 * Refer [Python_file](https://github.com/Shekharpatil225/TelegramBot/blob/main/main.py) to check the code.
 
+**[:arrow_up: Back to Index](#index)**
+
 ## UptimeRobot
 * The server in repl.it runs the code about an hour and then the server goes down.
 * UptimeRobot is a free service which basically pings our site every 5 minutes.
@@ -54,10 +62,14 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 * Register for UptimeRobot [Here](https://uptimerobot.com/)
 * It notifies us, if the server gets down due to any reasons through telegram or mail.
 
+**[:arrow_up: Back to Index](#index)**
+
 ## Conclusion
 * This bot can Encrypt and Decrypt a text anytime and anywhere.
 * You can safely send message to your loved ones without any fear of hacking.
 * changing randint and seed values periodically is more safe.
 * Can enjoy sending encypted message and Decrypting it.
+
+**[:arrow_up: Back to Index](#index)**
 
 ## ThankYou
