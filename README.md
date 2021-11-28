@@ -9,18 +9,21 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 * [Conclusion](#conclusion)
 
 ## Introduction
-s\
-h\
-e\
-k\
-h\
-a\
-r\
-p\
-a\
-t\
-i\
-l
+* This Bot is designed to Encrypt and Decrypt the messages
+* Encryption and Decryption process is done by Xor'ing a message and a key.
+* Key is a integer value which is randomly ganerated from random function.
+* Seed saves(remembers) the current value of randomly generated key in the process.
+* During Encryption, each character of Input message is converted to its ascii value and xor'ed with key.
+* appending every xor'ed word is appended and combined to one single word. Then it is coverted to hexadecimal for easy decryption. 
+* So, Bot sends the encrypted message in hexadecimal format.
+* During Decryption, hexadecimal string is coverted to normol string and then xor'ing each character of encrypted message and key gives decrypted message.
+
+## Libraries
+* Import os - The OS module in Python provides functions for creating and removing a directory(folder), fetchng its contents, changing and identifying the current directory etc..
+* Import telebot - Telebot library is used to interact the code with our telegram bot. Refer [TelebotAPI](https://pypi.org/project/pyTelegramBotAPI/)
+
+
+
 ## Replit
 s\
 h\
