@@ -36,43 +36,16 @@ Find it on Telegram as [TestBot](http://t.me/Testbot225_bot)
 * thread allows us to do multiple things at once. Here it allows the server to run continously and runs the python code at a same time.
 * So, keep_alive runs both server and main.py file at a same time
 
+## main.py
+* In main.py file we have a function called input_message for Encryption, and a function called output_message for Decryption.
+* API_KEY is a secret key of our telegram bot.
+* Message Handlers are used to take response from Bot for certain commands.
+* It detects the message sent by user is a text or command and responds accordingly. Check the code for details
 
-s\
-h\
-i\
-l\
-p\
-a\
-p\
-a\
-t\
-i\
-l
 ## Uptimerobot
-s\
-h\
-a\
-i\
-l\
-a\
-j\
-a\
-p\
-a\
-t\
-i\
-l
+* The server in repl.it runs the code about an hour and then the server goes down.
+* UptimeRobot is a free service which basically pings our site every 5 minutes.
+* During the pinging, it makes repl think that our server is getting some activity on it, so it doesn't shut the server down.
+* Register for UptimeRobot [Here](https://uptimerobot.com/)
+
 ## Conclusion
-B\
-h\
-e\
-e\
-m\
-a\
-n\
-a\
-g\
-o\
-u\
-d\
-a
